@@ -1,2 +1,2 @@
 # Windows-Labs
-A collection of Windows labs for IT helpdesk/sysadmin training.
+A collection of Windows labs for IT Helpdesk/Sysadmin training.

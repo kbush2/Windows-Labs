@@ -18,16 +18,18 @@
 
 ## Evidence
 
+## Evidence
+
 ### Step 1 — Created local user
 ![Created user](media/01_net-user-labuser.png)
 
 ### Step 2 — Failed logon captured in Event Viewer
-![Failed logon Event 4625](media/03_event-4625-failed-logon.png)
+![Failed logon Event 4625](media/02_wrong-password-attempt.png)
 
 ### Step 3 — Installed software
 ![Installed Notepad++](media/04_Installed-App-List.png)
 
-### Step 4 — Verified connectivity
+### Step 4 — Verified connectivity (ping)
 ![Ping 8.8.8.8](media/07_ping-8888.png)
 
 ### Step 5 — NAT network mode
@@ -35,6 +37,7 @@
 
 ### Step 6 — Bridged network mode
 ![Bridged connectivity](media/09_Bridged-connectivity.png)
+
 
 
 ## Skills Demonstrated

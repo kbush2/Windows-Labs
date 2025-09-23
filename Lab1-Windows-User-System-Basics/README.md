@@ -8,11 +8,12 @@
 - Practice device management basics.  
 
 ## What I Did
-- Created local user `labuser` using `net user`.  
-- Generated a failed logon and captured Event ID 4625 in Event Viewer.  
-- Installed and uninstalled Notepad++.  
-- Verified IP configuration and connectivity with `ipconfig` and `ping`.  
-- Compared NAT vs Bridged modes in VirtualBox.  
+- Created local user `labuser` using `net user`.
+- Generated a failed logon and captured Event ID 4625 in Event Viewer.
+- Installed and uninstalled **7-Zip**.
+- Verified IP configuration and connectivity with `ipconfig` and `ping`.
+- Compared NAT vs Bridged modes in VirtualBox.
+
 
 ## Evidence
 

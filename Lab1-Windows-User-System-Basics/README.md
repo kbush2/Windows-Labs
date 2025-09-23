@@ -27,7 +27,7 @@
 ![Failed logon Event 4625](media/02_wrong-password-attempt.png)
 
 ### Step 3 — Installed software
-![Installed 7-zip](media/04_Installed-App-List.png)
+![Installed 7-Zip](04_Installed-App-List.png)
 
 ### Step 4 — Verified connectivity (ping)
 ![Ping 8.8.8.8](media/07_ping-8888.png)

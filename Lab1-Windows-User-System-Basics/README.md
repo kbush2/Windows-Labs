@@ -20,23 +20,26 @@
 
 ## Evidence
 
+## Evidence
+
 ### Step 1 — Created local user
-![Created user](media/01_net-user-labuser.png)
+![Created user](01_net-user-labuser.png)
 
 ### Step 2 — Failed logon captured in Event Viewer
-![Failed logon Event 4625](media/02_wrong-password-attempt.png)
+![Failed logon Event 4625](03_event-4625-failed-logon.png)
 
-### Step 3 — Installed software
+### Step 3 — Installed software (7-Zip)
 ![Installed 7-Zip](04_Installed-App-List.png)
 
-### Step 4 — Verified connectivity (ping)
-![Ping 8.8.8.8](media/07_ping-8888.png)
+### Step 4 — Verified connectivity (ping 8.8.8.8)
+![Ping test](07_ping-8888.png)
 
 ### Step 5 — NAT network mode
-![NAT connectivity](media/08_NAT-connectivity.png)
+![NAT connectivity](08_NAT-connectivity.png)
 
 ### Step 6 — Bridged network mode
-![Bridged connectivity](media/09_Bridged-connectivity.png)
+![Bridged connectivity](09_Bridged-connectivity.png)
+
 
 
 

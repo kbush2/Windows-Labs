@@ -17,12 +17,6 @@
 
 ## Evidence
 
-## Evidence
-
-## Evidence
-
-## Evidence
-
 ### Step 1 — Created local user
 ![Created user](01_net-user-labuser.png)
 

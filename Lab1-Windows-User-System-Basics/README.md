@@ -15,14 +15,27 @@
 - Compared NAT vs Bridged modes in VirtualBox.  
 
 ## Evidence
-(Screenshots uploaded to this folder)  
 
-- 01_net-user-labuser.png — Created user  
-- 03_event-4625-failed-logon.png — Failed logon captured  
-- 04_Installed-App-List.png — Installed software visible  
-- 07_ping-8888.png — Verified connectivity  
-- 08_NAT-connectivity.png — Network mode shown  
-- 09_Bridged-connectivity.png — Bridged IP example  
+## Evidence
+
+### Step 1 — Created local user
+![Created user](media/01_net-user-labuser.png)
+
+### Step 2 — Failed logon captured in Event Viewer
+![Failed logon Event 4625](media/03_event-4625-failed-logon.png)
+
+### Step 3 — Installed software
+![Installed Notepad++](media/04_Installed-App-List.png)
+
+### Step 4 — Verified connectivity
+![Ping 8.8.8.8](media/07_ping-8888.png)
+
+### Step 5 — NAT network mode
+![NAT connectivity](media/08_NAT-connectivity.png)
+
+### Step 6 — Bridged network mode
+![Bridged connectivity](media/09_Bridged-connectivity.png)
+
 
 ## Skills Demonstrated
 - Windows account administration  

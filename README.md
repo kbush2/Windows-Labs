@@ -2,6 +2,13 @@
 
 This repository showcases my hands-on **Windows administration labs**, designed to build and demonstrate IT Helpdesk and SysAdmin skills. Each lab includes detailed steps, screenshots, and outcomes to provide clear evidence of my technical proficiency.
 
+# Windows Labs
+
+## Lab Index
+- [Lab 1: Windows Lab 1 — Security Event Logs](./Lab1/README.md)
+- [Lab 2: Windows Lab 2 — User Accounts, Lockout Policy, and Password Policy](./Lab2/README.md)
+
+
 ## 🎯 Purpose
 - Gain practical experience with Windows administration tasks.  
 - Build a portfolio to share with recruiters and hiring managers.  

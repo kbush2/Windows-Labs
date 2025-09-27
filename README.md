@@ -5,8 +5,8 @@ This repository showcases my hands-on **Windows administration labs**, designed 
 # Windows Labs
 
 ## Lab Index
-- [Lab 1: Windows Lab 1 — Security Event Logs](./Lab1/README.md)
-- [Lab 2: Windows Lab 2 — User Accounts, Lockout Policy, and Password Policy](./Lab2/README.md)
+- [Lab 1 — User/System Basics](./Lab1-Windows-User-System-Basics/README.md)
+- [Lab 2 — User Accounts, Lockout Policy, and Password Policy](./Lab2/README.md)
 
 
 ## 🎯 Purpose

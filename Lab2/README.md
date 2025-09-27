@@ -24,8 +24,8 @@ This lab demonstrates creating and managing users, testing logons, configuring a
 *Strong password accepted successfully.*
 
 ### Step 4 — Create New User
-![Create TestUser2](step4_create_new_user_in_active_directory.png)  
-*Created new user (TestUser2).*
+![Create TestUser](step4_create_new_user_in_active_directory.png)  
+*Created new user (TestUser).*
 
 ### Step 5a — Failed Logon Event
 ![Event ID 4625](step5a_Event_4625_failed_logon.png)  

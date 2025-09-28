@@ -21,10 +21,10 @@ This repository showcases my hands-on **Windows administration labs**, designed 
 - Control Panel / Settings  
 
 ## 🗂 Labs Included
-- [Lab 1 — Windows User & System Basics](Lab1-Windows-User-System-Basics/README.md)  
-- Lab 2 — Active Directory & Group Policy (Coming Soon)  
-- Lab 3 — Windows Server Networking (Planned)  
-- Lab 4 — Security & Permissions (Planned)  
+## Labs Included
+- [Lab 1 — User/System Basics](./Lab1-Windows-User-System-Basics/README.md)
+- [Lab 2 — User Accounts, Lockout Policy, and Password Policy](./Lab2/README.md)
+
 
 ## ✅ Skills Demonstrated
 - User and account management  

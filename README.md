@@ -1,6 +1,8 @@
-# Windows Labs Portfolio
+# Windows Labs
 
-This repository showcases my hands-on **Windows administration labs**, designed to build and demonstrate IT Helpdesk and SysAdmin skills. Each lab includes detailed steps, screenshots, and outcomes to provide clear evidence of my technical proficiency.
+Hands-on Windows 10 Pro labs for Helpdesk/SysAdmin skills: user management, security event logging, account lockout, and password policy enforcement.
+
+**Skills covered:** Local Users & Groups • Event IDs 4624/4625 • secpol.msc • Account lockout • Password complexity
 
 # Windows Labs
 

@@ -7,7 +7,7 @@ Hands-on Windows 10 Pro labs for Helpdesk/SysAdmin skills: user management, secu
 # Windows Labs
 
 ## Lab Index
-- [Lab 1 — User/System Basics](./Lab1-Windows-User-System-Basics/README.md)
+- * [Lab 1 — Windows User & System Basics](Lab1-Windows-User-System-Basics/README.md)
 - [Lab 2 — User Accounts, Lockout Policy, and Password Policy](./Lab2/README.md)
 
 
